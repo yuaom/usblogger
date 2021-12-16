@@ -1,0 +1,8 @@
+﻿  Rootkit.cpp
+C:\Users\calo\source\repos\chavo_source\chavo_source\Rootkit.cpp(70,34): warning C4311: 'type cast': pointer truncation from 'PVOID' to 'ULONG'
+C:\Users\calo\source\repos\chavo_source\chavo_source\Rootkit.cpp(70,34): warning C4302: 'type cast': truncation from 'PVOID' to 'ULONG'
+C:\Users\calo\source\repos\chavo_source\chavo_source\Rootkit.cpp(70,58): warning C4311: 'type cast': pointer truncation from 'PVOID' to 'ULONG'
+C:\Users\calo\source\repos\chavo_source\chavo_source\Rootkit.cpp(70,58): warning C4302: 'type cast': truncation from 'PVOID' to 'ULONG'
+  dllmain.cpp
+  Generating Code...
+  chavo_source.vcxproj -> C:\Users\calo\source\repos\chavo_source\x64\Debug\chavo_source.dll

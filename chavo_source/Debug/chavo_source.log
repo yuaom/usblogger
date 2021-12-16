@@ -1,0 +1,10 @@
+﻿  dllmain.cpp
+  Rootkit.cpp
+  Generating Code...
+  buffer.c
+  hde32.c
+  hde64.c
+  hook.c
+  trampoline.c
+  Generating Code...
+  chavo_source.vcxproj -> C:\Users\calo\source\repos\chavo_source\Debug\chavo_source.dll
